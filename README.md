@@ -43,4 +43,17 @@ _More information about those parameters here in the_ [DIFF-SVC Documentation](h
 
 ![App Screenshot](https://i.ibb.co/0JQj9qj/DIFF-SVC.png)
 
+<details>
+  <summary>*Updates & Roadmap*</summary>
+
+  ## Roadmap
+Rightnow the GUI is fully done in Python and I was planning on making it like that until it works 100%, but now I am working on a better looking GUI here's a sneakpeak for now ;)
+
+![App Screenshot](https://i.ibb.co/swzzZkb/placeholdertesting.png)
+
+Having in mind to:
+- Finish the Training Tab
+- Add some cute sounds to the GUI to make it more alive
+- Make it multithreading
+</details>
 
