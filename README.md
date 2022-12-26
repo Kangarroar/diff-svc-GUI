@@ -6,7 +6,7 @@
 Diff-SVC is a _Singing Voice Conversion via diffusion model_
 
 Warning: This project is in development and right now it only has the GUI done for Rendering purposes
-
+_Made in Python 3.8.10_
 
 
 
@@ -20,7 +20,7 @@ You first need to install the requeriments for this project, run in your termina
 ```bash
   pip install tkinter
 ```
-Once you have done that, get the source files and drag and drop them on your diff-svc main folder.
+Once you have done that, get the [source files](https://github.com/Kangarroar/diff-svc-GUI/tree/main/Diff-SVC%20Code) and drag and drop them on your diff-svc main folder.
 Then run a terminal and point it to your diff-svc folder and write
 ```bash
   python DIFFSVCGUI.py
