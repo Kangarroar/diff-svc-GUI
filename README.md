@@ -33,7 +33,7 @@ _Guide in english for diff-svc and what it does [here](https://docs.google.com/d
 
 You first need to install the requeriments for this project, run in your terminal:
 ```bash
-  pip install tkinter
+  pip install tk
 ```
 Once you have done that, get the [source files](https://github.com/Kangarroar/diff-svc-GUI/tree/main/Diff-SVC%20Code) and drag and drop them on your diff-svc main folder.
 Then run a terminal and point it to your diff-svc folder and write
