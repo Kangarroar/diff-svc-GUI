@@ -9,9 +9,10 @@
  <p align="center">
   <img src="https://badgen.net/github/license/Kangarroar/diff-svc-GUI">
   <img src="https://badgen.net/github/release/Kangarroar/diff-svc-GUI">
-  <a href="https://telegram.org">
+  <a href="https://t.me/Haxonell">
   <img src="https://badgen.net/badge/icon/telegram?icon=telegram&label">
 </a>
+ </p>
   
   
 
