@@ -6,6 +6,14 @@
   <h1 align="center" style="margin: 0 auto 0 auto;">DIFF-SVC GUI</h1>
   <h5 align="center" style="margin: 0 auto 0 auto;">Interface for DIFF-SVC</h5>
   </p>
+ <p align="center">
+  <img src="https://badgen.net/github/license/Kangarroar/diff-svc-GUI">
+  <img src="https://badgen.net/github/release/Kangarroar/diff-svc-GUI">
+  <a href="https://telegram.org">
+  <img src="https://badgen.net/badge/icon/telegram?icon=telegram&label">
+</a>
+  
+  
 
 **Diff-SVC GUI** is a program that only works **attached to**: https://github.com/prophesier/diff-svc
 
