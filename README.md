@@ -1,5 +1,11 @@
-
-![Logo](https://cdn.discordapp.com/attachments/1055995879292666009/1055996316607598683/Diff-SVC_Logo.png)
+<p align="center">
+  <img width="500" src="https://cdn.discordapp.com/attachments/1055995879292666009/1055996316607598683/Diff-SVC_Logo.png">
+  </p>
+<p align="center">
+  <img width="100" src="https://cdn.discordapp.com/attachments/1055995879292666009/1055996316351742054/Diff-SVC_small.png">
+  <h1 align="center" style="margin: 0 auto 0 auto;">DIFF-SVC GUI</h1>
+  <h5 align="center" style="margin: 0 auto 0 auto;">Interface for DIFF-SVC</h5>
+  </p>
 
 **Diff-SVC GUI** is a program that only works **attached to**: https://github.com/prophesier/diff-svc
 
